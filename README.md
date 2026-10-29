@@ -1,51 +1,44 @@
 # luisphilipeoripes
 
-# 🚀 Nome do Projeto
+# Olá! 👋 Eu sou Luis Philipe Oripes Da Silva
 
-Descrição breve do projeto e de seu objetivo.
+💻 Desenvolvedor em formação | 🚀 Apaixonado por tecnologia
 
-## 📌 Sobre o Projeto
+Bem-vindo(a) ao meu perfil do GitHub!
 
-Este projeto foi desenvolvido para oferecer uma solução prática e eficiente, utilizando tecnologias modernas.
+Sou apaixonado por tecnologia e programação, estou sempre aprendendo coisas novas e buscando desenvolver projetos que me ajudem a evoluir como desenvolvedor.
 
-## 🛠️ Tecnologias Utilizadas
+## 🙋‍♂️ Sobre mim
 
-- HTML5
-- CSS3
-- JavaScript
+- 📚 Estudando programação e desenvolvimento de software.
+- 💡 Sempre buscando aprender novas tecnologias.
+- 🚀 Desenvolvendo projetos para aprimorar minhas habilidades.
+- 🎯 Focado no meu crescimento profissional na área de tecnologia.
 
-## ✨ Funcionalidades
+## 🛠️ Tecnologias e ferramentas
 
-- Interface intuitiva e responsiva.
-- Código organizado.
-- Fácil utilização e manutenção.
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</p>
 
-## ⚙️ Como Executar
+## 📊 Estatísticas do GitHub
 
-1. Clone o repositório:
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight&hide_border=true)
 
-   ```bash
-   git clone https://github.com/SEU-USUARIO/SEU-REPOSITORIO.git
-   ```
+![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight&hide_border=true)
 
-2. Entre na pasta do projeto:
+## 🌐 Contato
 
-   ```bash
-   cd SEU-REPOSITORIO
-   ```
-
-3. Abra o arquivo `index.html` no navegador.
-
-## 👨‍💻 Autor
-
-Desenvolvido por **Seu Nome**.
-
-- GitHub: [@SEU-USUARIO](https://github.com/SEU-USUARIO)
-
-## 📄 Licença
-
-Este projeto está sob a licença MIT, caso essa licença seja adotada.
+- 💻 GitHub: [@SEU-USUARIO](https://github.com/SEU-USUARIO)
+- 💼 LinkedIn: [Meu LinkedIn](https://www.linkedin.com/)
 
 ---
 
-⭐ Se gostou do projeto, deixe uma estrela!
+### ✨ "Sempre aprendendo, evoluindo e transformando ideias em código."
+
+⭐ Obrigado por visitar meu perfil!
+
