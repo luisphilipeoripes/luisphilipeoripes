@@ -33,7 +33,7 @@ Sou apaixonado por tecnologia e programação, estou sempre aprendendo coisas no
 
 ## 🌐 Contato
 
-- 💼 LinkedIn: https://www.linkedin.com/me?trk=p_mwlite_feed-secondary_nav
+- 💼 LinkedIn: https://br.linkedin.com/in/luis-philipe-b7a93640b
 
 ---
 
