@@ -33,8 +33,7 @@ Sou apaixonado por tecnologia e programação, estou sempre aprendendo coisas no
 
 ## 🌐 Contato
 
-- 💻 GitHub: [@SEU-USUARIO](https://github.com/SEU-USUARIO)
-- 💼 LinkedIn: [Meu LinkedIn](https://www.linkedin.com/)
+- 💼 LinkedIn: https://www.linkedin.com/me?trk=p_mwlite_feed-secondary_nav
 
 ---
 
