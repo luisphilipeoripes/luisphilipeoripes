@@ -10,7 +10,7 @@ Sou apaixonado por tecnologia e programação, estou sempre aprendendo coisas no
 
 ## 🙋‍♂️ Sobre mim
 
-- 📚 Estudante de Analise e Desenvolvimento de Sistemas 
+- 📚 Estudante de Analise e Desenvolvimento de Sistemas.
 - 💡 Sempre buscando aprender novas tecnologias.
 - 🚀 Desenvolvendo projetos para aprimorar minhas habilidades.
 - 🎯 Focado no meu crescimento profissional na área de tecnologia.
